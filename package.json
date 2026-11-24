@@ -1,7 +1,7 @@
 
 {
   "name": "shop-easy-lite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ShopEasy Lite Docker application",
   "main": "server.js",
   "scripts": {
